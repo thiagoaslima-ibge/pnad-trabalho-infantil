@@ -1,0 +1,219 @@
+/* PRINT STYLES */
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important; /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after { content: ""; }
+  pre,
+  blockquote {
+      border:1px solid #999;
+      page-break-inside:avoid;
+    }
+  thead { display: table-header-group; }
+  tr,
+  img { page-break-inside: avoid; }
+    img { max-width: 100% !important; }
+    @page { margin: 0.5cm; }
+  p,
+  h2,
+  h3 {
+      orphans: 3;
+      widows: 3;
+    }
+  h2,
+  h3 { page-break-after: avoid; }  
+
+  html, body {
+    position:static;
+    overflow:visible;
+    height:auto;
+    border:none;
+    padding:0;
+    font-size:12px;
+  }
+  .main-header,
+  .page-content,
+  .main-footer {
+    position:static;
+  }
+  .main-header {
+    padding-left:2.52rem;
+  }
+  .page-content {
+    position:static;
+    height:auto;
+    overflow-x:visible;
+    overflow-y:visible;
+  }
+  .page-header {
+    &__topic-tag-style {
+      padding: .41em 0;       
+    }
+  }
+  [class^='col-'] {
+    display:block;
+  }
+  .menu,
+  .main-footer,
+  .progress-bar,
+  .functions {
+    display:none;
+  }
+  .feature {
+    display:inline-block;
+    padding:1.588rem 0 1.26rem;
+    border:solid 1px $colorMedium;
+  }
+  .ttorigin {
+    padding:0;
+    color:inherit;
+    &::before, &::after {
+      top:0;
+      left:0;
+      right:0;
+      content:"";
+    }
+  }
+  .chart {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    overflow-x: visible;
+    &-box {
+      min-width:0;
+      width:100%;
+    }
+  }
+  .btn.modal_call {
+    display:none;
+  }
+  .quote {
+    border:none;
+  }
+  .code-display {
+    pre {
+      padding:2rem;
+    }
+  }
+  .video-wrapper {
+		display:none;
+	}
+  .video-link {
+		display:block;
+  }
+  .accordion {
+    position:relative;
+    margin: 0;
+    &__trigger {
+      display: inline;
+      margin: 0;
+      padding: 0;
+      border: none;
+      border-radius: 0;      
+      transition: none;
+      font-weight: 700;
+    }
+    dt {
+      position: relative;
+      padding-left: 1.10rem;
+      color: #000;      
+      border-left: solid 2px $colorMedium;
+    }
+    dd {
+      display:block !important;
+      padding-left: 1.18rem;
+      padding-bottom:0;
+    }
+    svg {
+      display:none;
+    }    
+  }
+  .hotspot-container__map {
+    display:none;
+  }
+  .img-container {
+    .col-lg-6 {
+      img {
+        max-width:25% !important;
+      }
+    }
+    .col-lg-8 {
+      img {
+        max-width:50% !important;
+      }
+    } 
+    .col-lg-10 {
+      img {
+        max-width:75% !important;
+      }
+    }      
+  }
+  .slick {
+    &-list {
+      overflow:inherit;
+      width:100% !important;
+    }
+    &-track {
+      max-width:100%;
+      transform:none !important
+    }
+    &-slide {
+      float:none !important;
+      max-width:100%;
+    }
+    &-dots {
+      display:none !important;
+    }
+  }
+  .timeline__entry {
+    display:block;
+  }
+  .timeline__year {
+    display:block;
+    position:static;
+    margin:0 !important;
+    padding:0 !important;
+    width:auto !important;
+    height:auto !important;
+  }
+  .timeline__content-box {
+    display:block;
+    margin-top:-2rem;
+    img {
+      max-width:33% !important;
+    }
+  }
+  [data-aos^=fade][data-aos^=fade].aos-animate,
+  [data-aos^=fade][data-aos^=fade] {
+    opacity:1 !important;
+    transition:none;
+  }
+  .photo-mosaic {
+    margin-left:3rem;
+    .photo-mosaic__img-container {
+      width:60% !important;
+    }
+    .photo-mosaic__img-caption {
+      position: relative;
+      padding: 0;
+      color: #000;
+      opacity: 1;
+    }
+  }
+  .illustrated-list {
+    picture {
+      max-width:60%
+    }
+  }
+  .exercise__btn-check-answer {
+    display:none;
+  }
+  .exercise__icon {
+    margin-left:-2.5rem !important;
+  }
+}

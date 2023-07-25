@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="700px" height="515px" viewBox="0 0 700 515" enable-background="new 0 0 700 515" xml:space="preserve">
+<g id="fundo">
+	<rect fill="#E2E2E2" width="700" height="515"/>
+</g>
+<g id="retangulos">
+	<rect x="19.614" y="101.227" fill="#C6C6C6" width="243.5" height="72"/>
+	<rect x="424.934" y="101.624" fill="#3375B6" width="250.061" height="87.106"/>
+	<rect x="424.934" y="236.546" fill="#3375B6" width="250.061" height="87.106"/>
+	<rect x="424.934" y="399.807" fill="#3375B6" width="250.061" height="87.106"/>
+	<rect x="19.614" y="18.894" fill="#C6C6C6" width="243.5" height="52.263"/>
+	<rect x="19.614" y="245.519" fill="#C6C6C6" width="243.5" height="72"/>
+	<rect x="19.614" y="388.519" fill="#C6C6C6" width="243.5" height="109.682"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="141.364" y1="71.156" x2="141.364" y2="94.104"/>
+			<g>
+				<polygon fill="#1D1D1B" points="141.364,101.164 137.299,91.215 141.364,93.576 145.429,91.215 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="141.364" y1="173.227" x2="141.364" y2="237.627"/>
+			<g>
+				<polygon fill="#1D1D1B" points="141.364,244.688 137.299,234.738 141.364,237.099 145.429,234.738 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="141.364" y1="317.894" x2="141.364" y2="382.294"/>
+			<g>
+				<polygon fill="#1D1D1B" points="141.364,389.354 137.299,379.405 141.364,381.766 145.429,379.405 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="263.664" y1="137.624" x2="416.904" y2="137.624"/>
+			<g>
+				<polygon fill="#1D1D1B" points="423.965,137.624 414.016,141.689 416.377,137.624 414.016,133.559 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="263.664" y1="281.519" x2="416.904" y2="281.519"/>
+			<g>
+				<polygon fill="#1D1D1B" points="423.965,281.519 414.016,285.584 416.376,281.519 414.016,277.454 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#1D1D1B" stroke-miterlimit="10" x1="263.664" y1="443.36" x2="416.904" y2="443.36"/>
+			<g>
+				<polygon fill="#1D1D1B" points="423.965,443.36 414.016,447.425 416.376,443.36 414.016,439.295 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="Delete">
+		<g>
+			<circle fill="#DF0020" cx="141.364" cy="200.744" r="12.44"/>
+			<g>
+				<path fill="#FFFFFF" d="M146.825,206.255c-0.523,0.519-1.368,0.515-1.887-0.009l-9.045-9.128
+					c-0.519-0.523-0.515-1.368,0.009-1.887l0,0c0.523-0.519,1.368-0.515,1.887,0.009l9.045,9.128
+					C147.353,204.892,147.349,205.737,146.825,206.255L146.825,206.255z"/>
+				<path fill="#FFFFFF" d="M146.825,195.232c-0.523-0.519-1.368-0.515-1.887,0.009l-9.045,9.128
+					c-0.519,0.523-0.515,1.368,0.009,1.887l0,0c0.523,0.519,1.368,0.515,1.887-0.009l9.045-9.128
+					C147.353,196.596,147.349,195.751,146.825,195.232L146.825,195.232z"/>
+			</g>
+		</g>
+		<g>
+			<circle fill="#009640" cx="370.242" cy="138.165" r="12.44"/>
+			<g>
+				<path fill="#FFFFFF" d="M368.406,143.137c-0.523,0.519-1.166,0.718-1.436,0.446l-4.71-4.752c-0.27-0.272-0.2-1.176,0.323-1.695
+					l0,0c0.523-0.519,1.302-0.455,1.572-0.183l4.71,4.752C369.135,141.977,368.929,142.619,368.406,143.137L368.406,143.137z"/>
+				<path fill="#FFFFFF" d="M377.983,132.654c-0.523-0.519-1.368-0.515-1.887,0.009l-9.045,9.128
+					c-0.519,0.523-0.515,1.368,0.009,1.887l0,0c0.523,0.519,1.368,0.515,1.887-0.009l9.045-9.128
+					C378.51,134.017,378.506,133.173,377.983,132.654L377.983,132.654z"/>
+			</g>
+		</g>
+		<g>
+			<circle fill="#009640" cx="370.242" cy="281.519" r="12.44"/>
+			<g>
+				<path fill="#FFFFFF" d="M368.406,286.49c-0.523,0.519-1.166,0.718-1.436,0.446l-4.71-4.752c-0.27-0.272-0.2-1.176,0.323-1.695
+					l0,0c0.523-0.519,1.302-0.455,1.572-0.183l4.71,4.752C369.135,285.331,368.929,285.972,368.406,286.49L368.406,286.49z"/>
+				<path fill="#FFFFFF" d="M377.983,276.007c-0.523-0.519-1.368-0.515-1.887,0.009l-9.045,9.128
+					c-0.519,0.523-0.515,1.368,0.009,1.887l0,0c0.523,0.519,1.368,0.515,1.887-0.009l9.045-9.128
+					C378.51,277.37,378.506,276.526,377.983,276.007L377.983,276.007z"/>
+			</g>
+		</g>
+		<g>
+			<circle fill="#009640" cx="370.242" cy="443.36" r="12.44"/>
+			<g>
+				<path fill="#FFFFFF" d="M368.406,448.331c-0.523,0.519-1.166,0.718-1.436,0.446l-4.71-4.752c-0.27-0.272-0.2-1.176,0.323-1.695
+					l0,0c0.523-0.519,1.302-0.455,1.572-0.183l4.71,4.752C369.135,447.172,368.929,447.813,368.406,448.331L368.406,448.331z"/>
+				<path fill="#FFFFFF" d="M377.983,437.848c-0.523-0.519-1.368-0.515-1.887,0.009l-9.045,9.128
+					c-0.519,0.523-0.515,1.368,0.009,1.887l0,0c0.523,0.519,1.368,0.515,1.887-0.009l9.045-9.128
+					C378.51,439.211,378.506,438.367,377.983,437.848L377.983,437.848z"/>
+			</g>
+		</g>
+		<g>
+			<circle fill="#DF0020" cx="141.364" cy="343.184" r="12.44"/>
+			<g>
+				<path fill="#FFFFFF" d="M146.825,348.695c-0.523,0.519-1.368,0.515-1.887-0.009l-9.045-9.128
+					c-0.519-0.523-0.515-1.368,0.009-1.887l0,0c0.523-0.519,1.368-0.515,1.887,0.009l9.045,9.128
+					C147.353,347.332,147.349,348.177,146.825,348.695L146.825,348.695z"/>
+				<path fill="#FFFFFF" d="M146.825,337.673c-0.523-0.519-1.368-0.515-1.887,0.009l-9.045,9.128
+					c-0.519,0.523-0.515,1.368,0.009,1.887l0,0c0.523,0.519,1.368,0.515,1.887-0.009l9.045-9.128
+					C147.353,339.036,147.349,338.191,146.825,337.673L146.825,337.673z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="texto">
+	<text transform="matrix(1 0 0 1 27.7175 123.6104)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="13">Critério1</tspan><tspan x="51.111" y="0" font-family="'Roboto-Regular'" font-size="15"> </tspan><tspan x="0" y="18" font-family="'Roboto-Regular'" font-size="15">Em qual dos dois trabalha o maior</tspan><tspan x="0" y="36" font-family="'Roboto-Regular'" font-size="15">número de horas semanais?</tspan></text>
+	<text transform="matrix(1 0 0 1 433.0373 124.0071)"><tspan x="0" y="0" fill="#FFFFFF" font-family="Roboto-Regular" font-size="15">É possível aplicar o critério 1:   </tspan><tspan x="0" y="18" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">O trabalho principal é o B, no qual</tspan><tspan x="0" y="36" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">Pedro emprega o maior número de</tspan><tspan x="0" y="54" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">horas semanais.</tspan></text>
+	<text transform="matrix(1 0 0 1 433.0373 258.9296)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">É possível aplicar o critério 2:   </tspan><tspan x="0" y="18" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">O trabalho principal é o A, por </tspan><tspan x="0" y="36" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">meio do qual Pedro obtém o maior </tspan><tspan x="0" y="54" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">rendimento mensal.</tspan></text>
+	<text transform="matrix(1 0 0 1 433.0373 422.1904)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">É possível aplicar o critério 3:   </tspan><tspan x="0" y="18" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">O trabalho principal é o A, onde</tspan><tspan x="0" y="36" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="15">trabalha há mais tempo.</tspan></text>
+	<text transform="matrix(1 0 0 1 27.7175 41.2771)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="13">Pedro possui os trabalhos A e B.</tspan><tspan x="0" y="15.6" font-family="'Roboto-Bold'" font-size="13">Qual é o principal?</tspan></text>
+	<text transform="matrix(1 0 0 1 27.7175 267.9021)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="13">Critério2</tspan><tspan x="51.111" y="0" font-family="'Roboto-Regular'" font-size="15"> </tspan><tspan x="0" y="18" font-family="'Roboto-Regular'" font-size="15">Qual trabalho proporciona o maior</tspan><tspan x="0" y="36" font-family="'Roboto-Regular'" font-size="15">rendimento mensal?</tspan></text>
+	<text transform="matrix(1 0 0 1 27.7175 410.9021)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="13">Critério3</tspan><tspan x="51.111" y="0" font-family="'Roboto-Regular'" font-size="15"> </tspan><tspan x="0" y="18" font-family="'Roboto-Regular'" font-size="15">Em qual trabalho tinha mais</tspan><tspan x="0" y="36" font-family="'Roboto-Regular'" font-size="15">tempo de permanência, </tspan><tspan x="0" y="54" font-family="'Roboto-Regular'" font-size="15">contando até o final da semana </tspan><tspan x="0" y="72" font-family="'Roboto-Regular'" font-size="15">de referência?</tspan></text>
+	<text transform="matrix(1 0 0 1 176.5 197.5)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="11">Não é possível aplicar o critério 1:</tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">Pedro trabalha o mesmo número</tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">de horas nos trabalhos A e B</tspan></text>
+	<text transform="matrix(1 0 0 1 176.5 340.625)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="11">Não é possível aplicar o critério 2:</tspan><tspan x="0" y="13.2" font-family="'Roboto-Regular'" font-size="11">Pedro recebe o mesmo rendimento </tspan><tspan x="0" y="26.4" font-family="'Roboto-Regular'" font-size="11">nos trabalhos A e B.</tspan></text>
+	<text transform="matrix(1 0 0 1 584.8893 29)"><tspan x="0" y="0" font-family="'Roboto-Medium'" font-size="11">Caso de aplicação</tspan><tspan x="-11.844" y="13.2" font-family="'Roboto-Medium'" font-size="11">dos critérios 1, 2, e 3</tspan></text>
+</g>
+</svg>

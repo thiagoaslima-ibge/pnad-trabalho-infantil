@@ -1,0 +1,85 @@
+/* MEDIA QUERIES */
+@media (min-width: $breakPointSm)  {
+  html {
+    font-size:21px; /* Tamanho base de fonte :ROOT em desktop */
+    border:solid 10px $colorMedium;
+	}	
+  .ss_hide { display:inherit;	}
+	.inverted-border { border:solid 10px #fff; }
+	.bulleted-list {
+		> li { 
+			list-style-position: outside;
+			padding-left:0.5rem; 
+			margin-left: -0.5rem; 
+		}
+		&--sublist {
+			list-style-position: outside;
+			margin-left:0rem;
+			padding-left:1.5rem;
+		}
+	}	
+	.definition-list {
+		dt { left:-1.18rem; }
+		dd { padding-left:0; }
+	}	
+	.numeric-list {
+		padding:0;
+		> li::before { left:-2rem; }
+	}
+	.timeline {
+		&__baseline { visibility:visible; }
+		&__content-box {
+			&:nth-child(2) { margin-top:0; }
+		}
+	}
+	.video-content {
+		&--focus { transform:scale(1.26); }
+	}
+	.video-wrapper {
+		&__iframe {
+			&--focus { transform:scale(1.26); }
+		}
+	}
+	.video-link {
+		display:none;
+	}
+	.credits {
+		&__higher-unit { position:relative; }
+		&__initials {
+			position:absolute;
+			left:-4.5rem;
+			display:inline;
+			text-align:right;
+		}
+	}
+	.chart {
+		&-box {  
+			min-width: auto;
+		}
+	}
+	.grid {
+		&__cell {
+			height: 192px;
+			width: 192px;
+		}	
+	}
+	abbr[title] {
+		&:focus::after {
+			content: "";
+		}
+	}
+	/* SLIDER
+   Inclui propriedades para implementacao do slider. */
+		.slick-list {
+			margin: 0 auto 2rem;
+		}
+}
+
+@media (min-width: $breakPointMd)  {
+	.cover-footer__brand-list { display: block; }
+	.cover-footer__cta { font-size: 1rem; }
+	.course-details {
+		&__unit {	font-size: 1.26rem; }
+		&__name {	font-size: 2.52rem;	}
+	}
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="650px" height="300px" viewBox="0 0 650 300" enable-background="new 0 0 650 300" xml:space="preserve">
+<g id="fundo">
+	<rect x="0.31" y="-0.193" fill="#E2E2E2" width="648.974" height="299.953"/>
+</g>
+<g id="linhas">
+	<rect x="195.333" y="54.616" fill="#2F5C8F" width="244.667" height="15"/>
+	<rect x="195.333" y="84.058" fill="#D85C27" width="82" height="15"/>
+	<rect x="440" y="220.391" fill="#D85C27" width="82" height="15"/>
+	<rect x="440" y="252.539" fill="#D85C27" width="82" height="15"/>
+	<rect x="195.333" y="116.058" fill="#2F5C8F" width="244.667" height="15"/>
+	<rect x="195.333" y="189.058" fill="#2F5C8F" width="244.667" height="15"/>
+	<rect x="195.333" y="252.539" fill="#2F5C8F" width="244.667" height="15"/>
+	<rect x="195.333" y="123.058" fill="#D85C27" width="82" height="8"/>
+</g>
+<g id="texto">
+	<text transform="matrix(1 0 0 1 20.8313 35.1707)"><tspan x="0" y="0" font-family="'Roboto-Bold'" font-size="13">Atividades simultâneas </tspan><tspan x="0" y="31" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Cuidado de pessoas</tspan><tspan x="0" y="62" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Afazeres domésticos</tspan><tspan x="0" y="93" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Registro no DMC</tspan><tspan x="0" y="134" font-family="'Roboto-Bold'" font-size="13">Atividades não simultâneas</tspan><tspan x="0" y="165" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Cuidado de pessoas</tspan><tspan x="0" y="196" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Afazeres domésticos</tspan><tspan x="0" y="227" fill="#575756" font-family="'Roboto-Regular'" font-size="15">Registro de DMC</tspan></text>
+	<text transform="matrix(1 0 0 1 446.6667 66.5)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">3 horas</text>
+	<text transform="matrix(1 0 0 1 446.6664 127.9418)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">3 horas</text>
+	<text transform="matrix(1 0 0 1 446.6667 201.9417)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">3 horas</text>
+	<text transform="matrix(1 0 0 1 528.6665 264.4222)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">4 horas</text>
+	<text transform="matrix(1 0 0 1 528.6668 232.2752)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">1 hora</text>
+	<text transform="matrix(1 0 0 1 283.3335 95.9419)" fill="#575756" font-family="'Roboto-Regular'" font-size="15">1 hora</text>
+</g>
+</svg>
