@@ -648,10 +648,7 @@
 
 			<figure class="img-container">
 				<picture>
-					<source srcset="dist/img/15grafico01.svg" media="(min-width:1200px)" />
-					<source srcset="dist/img/15grafico01.svg" media="(min-width:600px)" />
-					<source srcset="dist/img/15grafico01.svg" media="(min-width:1px)" />
-					<img class="image" src="dist/img/15grafico01.svg" alt="grafico de atividades"/>
+					<?php inlineSvg("dist/img/15grafico01.svg", "image", "grafico de atividades"); ?>
 				</picture>
 			
 			</figure>
