@@ -14,8 +14,8 @@
     type: "true-or-false",
     correctAnswer: [0,1,1],
 		missFeedback: [
-			"<strong>A sentença é verdadeira</strong>. Atendem ao conceito de pessoas ocupadas, desde que tenham trabalhado 1 hora ou mais na semana de referência: trabalhadores ocasionais, trabalhadores na informalidade, artistas de rua, pessoas que desenvolvem atividades de comércio ambulantes de mercadorias.",
-			"<strong>A sentença é falsa</strong>.Atendem ao conceito de pessoas ocupadas, desde que tenham trabalhado 1 hora ou mais na semana de referência: trabalhadores ocasionais, trabalhadores na informalidade, artistas de rua, pessoas que desenvolvem atividades de comércio ambulantes de mercadorias. ",
+			"<strong>A sentença é verdadeira</strong>. Atendem ao conceito de pessoas ocupadas, desde que tenham trabalhado 1 hora ou mais na semana de referência: trabalhadores ocasionais, trabalhadores na informalidade, artistas de rua, pessoas que desenvolvem atividades de comércio ambulante de mercadorias.",
+			"<strong>A sentença é falsa</strong>.Atendem ao conceito de pessoas ocupadas, desde que tenham trabalhado 1 hora ou mais na semana de referência: trabalhadores ocasionais, trabalhadores na informalidade, artistas de rua, pessoas que desenvolvem atividades de comércio ambulante de mercadorias. ",
 			"<strong>A sentença é falsa</strong>. Não é considerada pessoa ocupada aquela que na semana de referência exerceu apenas trabalho voluntário."
 		]
 	};

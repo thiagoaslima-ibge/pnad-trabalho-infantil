@@ -28,7 +28,7 @@
 	<!-- Conteudo da pagina [inicio] -->
 		<div class="col-xs-22 col-xs-offset-1 col-sm-18 col-sm-offset-3 col-md-14 col-md-offset-5 col-lg-10 col-lg-offset-7">			
 			
-			<p>Para concluir esta unidade, compartilhamos o artigo de opinião de Vinicius Pinheiro, diretor regional da <span class="small-caps">OIT</span> para América Latina e Caribe, publicado no jornal valor econômico em 11 de junho de 2021:</p>
+			<p>Para concluir este módulo, compartilhamos o artigo de opinião de Vinicius Pinheiro, diretor regional da <span class="small-caps">OIT</span> para América Latina e Caribe, publicado no jornal valor econômico em 11 de junho de 2021:</p>
 
 			<!-- Citacao em bloco [inicio] -->
 			<blockquote class="quote" cite="http://www.google.com.br/">

@@ -37,7 +37,8 @@
 </style>
 
 <main class="page-content okgo">
-	<div class="splash-page__content">				
+	<div class="splash-page__content" style="text-shadow: 2px 2px 3px rgba(0,0,0,0.7);"
+>				
 		<div class="row">
 			<div class="col-xs-22 col-xs-offset-1 col-sm-18 col-sm-offset-3 col-md-14 col-md-offset-5 col-lg-10 col-lg-offset-7">				
 				<?php				

@@ -20,5 +20,4 @@ var paginas = [
 	{arquivo:"17exercicio7.php", titulo:"Exercício 7", nvl1: "Como o trabalho infantil é pesquisado"},
 	{arquivo:"18exercicio8.php", titulo:"Exercício 8", nvl1:"Como o trabalho infantil é pesquisado"},
 	{arquivo:"19encerramento.php", titulo:"Encerramento", nvl1:"Encerramento"},
-	{arquivo:"19splash-page04.php", titulo:"O trabalho infantil é ilegal", nvl1:"Encerramento"}
 ];

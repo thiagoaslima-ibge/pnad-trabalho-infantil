@@ -192,7 +192,7 @@
 				<ul class="bulleted-list">
 				<li>as pausas para as refeições;</li>
 				<li>o tempo gasto nas viagens da residência para o trabalho;</li>
-				<li>as horas que a criança esteve afastada do trabalho por estar doente, por ter faltado ou ter chegado atrasada.</li>
+				<li>as horas em que a criança esteve afastada do trabalho por estar doente, por ter faltado ou ter chegado atrasada.</li>
 			</div>
 		</section>
 		<!-- Destaque [fim] -->

@@ -80,7 +80,7 @@
 					<source srcset="dist/img/m04--lg.jpg" media="(min-width:1200px)">
 					<source srcset="dist/img/m04--md.jpg" media="(min-width:600px)">
 					<source srcset="dist/img/m04--sm.jpg" media="(min-width:1px)">
-					<img class="image" src="dist/img/example-img001--lg.jpg" alt="Descrição">
+					<img class="image" src="dist/img/example-img001--lg.jpg" alt="Em primeiro plano, uma criança pisando no chão enlameado de um lixão, carregando um saco de obra cheio de objetos coletados. Veste uma calça jeans e uma camiseta azul. Em segundo plano, dois cachorros farejando o chão e um adulto carregando outro saco cheio de objetos.">
 				</picture>
 				<figcaption class="photo-mosaic__img-caption">	
 					<h4 class="news__title"><a href="https://observatorio3setor.org.br/noticias/trabalho-infantil-aumenta-na-pandemia-mas-segue-ignorado-no-brasil/" target="_blank" rel="noopener">Trabalho infantil aumenta na pandemia, mas segue ignorado no Brasil</a></h4>
@@ -115,7 +115,7 @@
 					<img class="image" src="dist/img/example-img001--lg.jpg" alt="Desenho com traços infantis mostra uma criança com um saco pesado sobre as costas, cheio de frutas vermelhas. A criança está com feições tristes e coleta mais frutas.">
 				</picture>
 				<figcaption class="photo-mosaic__img-caption">	
-					<h4 class="news__title"><a href="https://revistapesquisa.fapesp.br/trabalho-infantil-pode-afetar-quase-6-milhoes-no-pais/" target="_blank" rel="noopener">Revista Pesquisa Fapesp </a></h4>
+					<h4 class="news__title"><a href="https://revistapesquisa.fapesp.br/trabalho-infantil-pode-afetar-quase-6-milhoes-no-pais/" target="_blank" rel="noopener">Trabalho infantil pode afetar quase 6 milhões no país </a></h4>
 					<p>“Muitos dos meus alunos não têm mais impressão digital porque começaram a trabalhar desde cedo na produção de semijoias. E isso é descoberto no momento da emissão do documento de identidade.”.</p>
 					<p><small class="img-container__img-src"><a href="https://revistapesquisa.fapesp.br/wp-content/uploads/2022/11/076-081_trabalho-infantil_321-1-1140.jpg ">Desenho: revistapesquisa.fapesp.br</a></small></p>
 				</figcaption>
@@ -164,7 +164,7 @@
 			<!-- Citacao em bloco [fim] -->  
 
 
-			<p>Portanto, jovens de 14 e 15 anos já podem trabalhar, desde que como aprendizes. Segundo a <span class="small-caps">CLT</span> (Consolidação das Leis do Trabalho), o contrato não pode ser superior a dois anos, pressupõe assinatura da Carteira de Trabalho e requer que o jovem esteja matriculado e frequentando a escola.</p>
+			<p>Portanto, jovens de 14 e 15 anos já podem trabalhar, desde que como aprendizes. Segundo a Consolidação das Leis do Trabalho (<span class="small-caps">CLT</span>), o contrato não pode ser superior a dois anos, pressupõe assinatura da Carteira de Trabalho e requer que o jovem esteja matriculado e frequentando a escola.</p>
 
 			<p>Já o <a href="https://www.planalto.gov.br/ccivil_03/leis/l8069.htm">Estatuto da Criança e do adolescente (<span class="small-caps">ECA</span>)</a>, assim como a Constituição Federal, determina que o jovem aprendiz não pode exercer trabalhos noturnos (entre 22h e 5h do dia seguinte), perigosos, insalubres, penosos, em locais que prejudiquem sua formação mental e física e realizado em horários e locais que não permitam a frequência à escola.</p>
 

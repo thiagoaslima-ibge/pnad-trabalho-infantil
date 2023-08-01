@@ -202,11 +202,12 @@
 				<li>César tem um bar. Sua filha, Catarina de 12 anos, ajuda no atendimento aos clientes, sem ser remunerada, todos os dias após o horário da escola. Nesta situação, deverá ser selecionado <strong>Sim</strong>, para Catarina.</li>  
 				<li>Antônio foi contratado por empreitada para capinar uma área de plantação. Para o serviço andar mais rápido, ele levou seus dois filhos, Isaque e Daniel, para ajudar. Logo, Isaque e Daniel são considerados trabalhadores não remunerados em ajuda a Antônio, que recebeu a remuneração da empreitada.</li>
 			</ul>
+		</div>
 
 				<!-- Destaque [inicio] -->
 		<section class="feature feature--example">
 			<div class="col-xs-22 col-xs-offset-1 col-sm-18 col-sm-offset-3 col-md-14 col-md-offset-5 col-lg-10 col-lg-offset-7">
-				<p>Existem situações em que, apesar da criança ter algum trabalho, na semana de referência ela não trabalhou por algum motivo. Porém, dependendo do motivo e da duração do afastamento esta criança ainda deve ser considerada ocupada, como, por exemplo, folga, licença médica. Os quesitos 5 e 6 visam identificar estes casos.</p>
+				<p>Existem situações em que, apesar da criança ter algum trabalho, na semana de referência ela não trabalhou por algum motivo. Porém, dependendo do motivo e da duração do afastamento, esta criança ainda deve ser considerada ocupada, como, por exemplo, folga, licença médica. Os quesitos 5 e 6 visam identificar estes casos.</p>
 			</div>
 		</section>
 		<!-- Destaque [fim] -->	
@@ -236,7 +237,7 @@
 				<li><strong>Não</strong> para a criança de 5 a 13 anos de idade que não tinha trabalho remunerado do qual estava temporariamente afastada.</li>
 			</ul>	
 
-			<p>As seguintes situações deverão ser atentamente observadas para configura ou não o afastamento do trabalho:</p>
+			<p>As seguintes situações deverão ser atentamente observadas para configurar ou não o afastamento do trabalho:</p>
 
 			<!-- Lista de definicao [inicio] -->
 			<dl class="definition-list">

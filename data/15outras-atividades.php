@@ -325,7 +325,7 @@
 
 			<!-- FIM-->
 
-			<p>A partir do momento em que a criança de 5 a 13 anos de idade declara ter exercido atividades em cultivo, pesca, caça ou criação de animais destinados somente à alimentação das pessoas moradoras do domicílio ou de parente, será perguntada qual foi a principal, ou seja, aquela na qual dedicou o maior número de horas.</p>
+			<p>A partir do momento em que a criança de 5 a 13 anos de idade declara ter exercido atividades de fabricação de bens de uso doméstico destinadas somente ao próprio uso das pessoas moradoras do domicílio ou de parentes que residiam em outro domicílio, será perguntada qual foi a principal, ou seja, aquela na qual dedicou o maior número de horas.</p>
 
 			<p>Ao clicar no campo, o entrevistador irá escrever a atividade principal. Veja os exemplos de descrição, a seguir, passíveis de serem especificadas:</p>
 
@@ -367,7 +367,7 @@
 				<li>construção de casa ou de cômodo, de muro, de telhado ou de laje;</li>
 				<li>construção de chaminé, de lareira, de forno ou de fogão, de churrasqueira ou de piscina;</li>
 				<li>construção de cerca, de ponte ou de estrada para uso particular;</li>
-				<li>construção abrigo para animais domésticos ou para animais destinados à alimentação do domicílio;</li>
+				<li>construção de abrigo para animais domésticos ou para animais destinados à alimentação do domicílio;</li>
 				<li>construção de poço, cacimba, cisterna.</li>
 
 			</ul>	
@@ -650,7 +650,6 @@
 				<picture>
 					<?php inlineSvg("dist/img/15grafico01.svg", "image", "grafico de atividades"); ?>
 				</picture>
-			
 			</figure>
 
 		</div>	

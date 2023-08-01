@@ -332,7 +332,7 @@
 
 			<!-- FIM-->
 
-			<p>Neste quesito o entrevistador, com base nas informações recebidas, irá descrever, de forma resumida, as principais responsabilidades ou tarefas realizadas no trabalho principal que a criança de 5 a 13 anos de idade tinha na semana de referência. Tal quesito tem por objetivo qualificar, de maneira mais detalhada, a ocupação. Em algumas situações irá contribuir para uma reflexão conjunta do entrevistador e do informante, ressaltando, inclusive, a necessidade alterações no quesito 7.</p>	
+			<p>Neste quesito o entrevistador, com base nas informações recebidas, irá descrever, de forma resumida, as principais responsabilidades ou tarefas realizadas no trabalho principal que a criança de 5 a 13 anos de idade tinha na semana de referência. Tal quesito tem por objetivo qualificar, de maneira mais detalhada, a ocupação. Em algumas situações irá contribuir para uma reflexão conjunta do entrevistador e do informante, ressaltando, inclusive, a necessidade de alterações no quesito 7.</p>	
 
 		</div>	
 		<!--Fim quesito-->
@@ -351,7 +351,7 @@
 
 			<!-- FIM-->
 
-			<p>Esta pergunta identifica a relação de trabalho existente entre a criança de 5 a 13 anos de idade e o negócio/empresa em que trabalhava. Trata-se da <strong>“Posição na ocupação”?</strong>.</p>
+			<p>Esta pergunta identifica a relação de trabalho existente entre a criança de 5 a 13 anos de idade e o negócio/empresa em que trabalhava. Trata-se da <strong>“Posição na ocupação”.</strong>.</p>
 
 			<p>Deverá ser preenchido de acordo com as seguintes orientações:</p>
 
@@ -584,11 +584,9 @@
 				<li>Evite registrar o <strong>nome da empresa</strong>, pois várias empresas possuem nomes parecidos.</li>  
 				<li>Para o morador que trabalhava em empreendimento com mais de uma atividade, o registro deve ser da atividade principal do empreendimento, quando se tratar do morador que o explorava ou o trabalho estava ligado às diferentes atividades do empreendimento. Nos demais casos registra-se a atividade na qual exercia a sua ocupação.</li>
 				<br>
-				<p>Exemplo: Para a pessoa que explorava um empreendimento que compreendia o cultivo da cana-de-açúcar e a usina de açúcar, sendo esta última a atividade principal, o registro deve referir-se a usina de açúcar.</p>
-
-				<p>Entretanto, o registro deve ser cultivo da cana-de-açúcar se a pessoa for empregada e exercer a sua ocupação nesta atividade de cultivo.</p>
+				<p>Exemplo: Para a pessoa que explorava um empreendimento que compreendia o cultivo da cana-de-açúcar e a usina de açúcar, sendo esta última a atividade principal, o registro deve referir-se a usina de açúcar.Entretanto, o registro deve ser cultivo da cana-de-açúcar se a pessoa for empregada e exercer a sua ocupação nesta atividade de cultivo.</p>
 				</li>
-				<li>Para a criança que trabalhava na produção caseira e comercialização da sua produção deverá ser registrado “produção caseira de ….”. Exemplo: produção caseira de conservas, produção caseira de bolos. <strong>A pessoa só comercializa porque produz. A atividade comercial está vinculada a compra e revenda de mercadoria.</strong></li>
+				<li>Para a criança que trabalhava na produção caseira e comercialização da sua produção deverá ser registrado “produção caseira de ….”. Exemplo: produção caseira de conservas, produção caseira de bolos. <strong>A pessoa só comercializa porque produz. A atividade comercial está vinculada à compra e à revenda de mercadoria.</strong></li>
 				<li>Para o pescador conta própria deve ser feito o registro na atividade “pesca” mesmo se ele comercializa o peixe. O registro de “comércio de peixe” somente deverá ser feito no caso de o morador apenas ter trabalhado vendendo o peixe.</li>
 				<li>Para a criança que trabalhava em empreendimento que funcionava ou realizava serviços dentro de outro empreendimento, registre a atividade do empreendimento ao qual estava vinculada.</li>
 				<br>
@@ -627,10 +625,10 @@
 				<dd>Se o negócio/empresa em que a criança de 5 a 13 anos de idade era ocupada, (ainda que exercendo função externa) em atividade da agricultura, silvicultura, pecuária, extração vegetal ou piscicultura, possuía estabelecimento em fazenda, sítio, granja, chácara, viveiro, haras, criadouro, horto, ranário etc. Por exemplo, criança que trabalhava em vários sítios ou chácaras, fazendo poda e colhendo frutos.</dd>
 
 				<dt>Em local designado pelo empregador, cliente ou freguês</dt>
-				<dd>Para a criança de 5 a 13 anos de idade que trabalhava em local designado pelo empregador, cliente ou freguês, ou em local (exclusive via ou área pública) onde encontrava seus clientes ou fregueses. Por exemplo: criança que era ajudante de pedreiro, que trabalhava por conta própria em diversos locais, tais como apartamentos, casas, lojas, terrenos, prestando serviço para seus clientes,</dd>
+				<dd>Para a criança de 5 a 13 anos de idade que trabalhava em local designado pelo empregador, cliente ou freguês, ou em local (exclusive via ou área pública) onde encontrava seus clientes ou fregueses. Por exemplo: criança que era ajudante de pedreiro, que trabalhava por conta própria em diversos locais, tais como apartamentos, casas, lojas, terrenos, prestando serviço para seus clientes.</dd>
 
 				<dt>Domicílio de empregador, patrão, sócio ou freguês</dt>
-				<dd>Para a criança de 5 a 13 anos de idade normalmente exercia seu trabalho unicamente em unidade domiciliar de residência do empregador, patrão ou sócio. Por exemplo, criança que trabalhava na sala da casa da sua empregadora onde ambas confeccionavam roupas para venda.</dd>
+				<dd>Para a criança de 5 a 13 anos de idade que normalmente exercia seu trabalho unicamente em unidade domiciliar de residência do empregador, patrão ou sócio. Por exemplo, criança que trabalhava na sala da casa da sua empregadora onde ambas confeccionavam roupas para venda.</dd>
 
 				<dt>No domicílio de residência, em local exclusivo para o desempenho da atividade</dt>
 				<dd>Para a criança de 5 a 13 anos de idade que trabalhava na unidade domiciliar em que residia, por não dispor de estabelecimento para o negócio/empresa, reservando pelo menos um cômodo de sua residência para ser o local exclusivo de trabalho. Por exemplo: criança que era ajudante de cabeleireira, que ajudava a sua mãe, que atendia clientes em seu próprio domicílio, em um cômodo preparado exclusivamente para este fim.</dd>
