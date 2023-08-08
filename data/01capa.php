@@ -42,12 +42,19 @@
 					<li class="col-xs-22 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-5 col-lg-3"><span class="cover-header__acronym">CTA</span> Coordenação de Treinamento e Aperfeiçoamento</li>
 				</ul>
 			</header>
-			<main class="course-details">				
+			<main class="course-details">		
+				
+				<div class="row course-details__container">
+					<div class="col-xs-22 col-xs-offset-1 col-sm-20 col-sm-offset-2 col-md-22 col-md-offset-1">
+						<h2 class="course-details__unit">Estatística</h2>				
+						<h1 class="course-details__name">Pesquisa Nacional por Amostra de Domicílios Contínua</h1>
+					</div>
+				</div>
 
 				<div class="row course-details__container">
 					<div class="col-xs-22 col-xs-offset-1 col-sm-20 col-sm-offset-2 col-md-22 col-md-offset-1">
 						<h4 class="course-details__unit">Pesquisa Nacional por Amostra de Domicílios Contínua</h2>				
-						<h3 class="course-details__name">Módulo Trabalho de pessoas de 5 a 13 anos de idade</h1>
+						<h3 class="course-details__name">Trabalho de pessoas de 5 a 13 anos de idade</h1>
 					</div>
 				</div>
 
