@@ -584,7 +584,8 @@
 				<li>Evite registrar o <strong>nome da empresa</strong>, pois várias empresas possuem nomes parecidos.</li>  
 				<li>Para o morador que trabalhava em empreendimento com mais de uma atividade, o registro deve ser da atividade principal do empreendimento, quando se tratar do morador que o explorava ou o trabalho estava ligado às diferentes atividades do empreendimento. Nos demais casos registra-se a atividade na qual exercia a sua ocupação.</li>
 				<br>
-				<p>Exemplo: Para a pessoa que explorava um empreendimento que compreendia o cultivo da cana-de-açúcar e a usina de açúcar, sendo esta última a atividade principal, o registro deve referir-se a usina de açúcar. Entretanto, o registro deve ser cultivo da cana-de-açúcar se a pessoa for empregada e exercer a sua ocupação nesta atividade de cultivo.</p>
+				<p>Exemplo: Para a pessoa que explorava um empreendimento que compreendia o cultivo da cana-de-açúcar e a usina de açúcar, sendo esta última a atividade principal, o registro deve referir-se a usina de açúcar.</p> 
+				<p>Entretanto, o registro deve ser cultivo da cana-de-açúcar se a pessoa for empregada e exercer a sua ocupação nesta atividade de cultivo.</p>
 				</li>
 				<li>Para a criança que trabalhava na produção caseira e comercialização da sua produção deverá ser registrado “produção caseira de ….”. Exemplo: produção caseira de conservas, produção caseira de bolos. <strong>A pessoa só comercializa porque produz. A atividade comercial está vinculada à compra e à revenda de mercadoria.</strong></li>
 				<li>Para o pescador conta própria deve ser feito o registro na atividade “pesca” mesmo se ele comercializa o peixe. O registro de “comércio de peixe” somente deverá ser feito no caso de o morador apenas ter trabalhado vendendo o peixe.</li>
